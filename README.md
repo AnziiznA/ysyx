@@ -32,3 +32,4 @@
 - 胡伟武《计算机体系结构》：系统教材
 - RISC-V Unprivileged Spec（RV32I）
 - 工具链：Verilator / iverilog + GTKWave；Git
+- 换电脑？看 [docs/SETUP-Windows11.md](docs/SETUP-Windows11.md)（Windows 11 配置清单）
