@@ -1,0 +1,27 @@
+# build artifacts
+build/
+obj/
+*.o
+*.out
+*.elf
+*.bin
+*.hex
+
+# simulation artifacts
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.wlf
+sim/
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# 一生一芯工具链产物
+ysyx-workbench/
+nvboard/
+bsp/
